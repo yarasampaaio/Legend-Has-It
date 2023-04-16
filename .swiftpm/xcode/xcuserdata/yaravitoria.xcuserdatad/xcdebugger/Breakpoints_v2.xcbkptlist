@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1B4C9F82-7EFE-4216-8C3B-CDD0F8DE2CF7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9CCC236B-91F4-439C-A36A-120AFF9C3136"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9CCC236B-91F4-439C-A36A-120AFF9C3136 - a5509e6218b1589c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WWDC2023.HomeView.body.getter : some"
+                  moduleName = "WWDC2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yaravitoria/Documents/Programs/WWDC2023.swiftpm/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "460">
+               </Location>
+               <Location
+                  uuid = "9CCC236B-91F4-439C-A36A-120AFF9C3136 - 3d6ea0190e9b50d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.scaledToFill() -&gt; some&gt;&gt;.0, SwiftUI.HStack&lt;SwiftUI.VStack&lt;SwiftUI.NavigationLink&lt;SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.position(__C.CGPoint) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.position(__C.CGPoint) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.position(__C.CGPoint) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.position(__C.CGPoint) -&gt; some&gt;&gt;.0)&gt;, WWDC2023.ContentView&gt;&gt;&gt;)&gt; in WWDC2023.HomeView.body.getter : some"
+                  moduleName = "WWDC2023"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yaravitoria/Documents/Programs/WWDC2023.swiftpm/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "432">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
